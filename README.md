@@ -2,6 +2,16 @@
 
 A Flutter library for creating animated gradient backgrounds.
 
+## Description
+
+This package allows you to create animated gradient backgrounds with customizable colors, stops, alignments, and animation duration.
+
+## Demo
+
+| ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)
+ | ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) | ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) |
+
+
 ## Features
 
 - Animate the hue of gradient colors over time.
