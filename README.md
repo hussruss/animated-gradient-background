@@ -8,9 +8,8 @@ This package allows you to create animated gradient backgrounds with customizabl
 
 ## Demo
 
-| ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)
- | ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) | ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) |
-
+ ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)
+  ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)  ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) 
 
 ## Features
 
@@ -46,12 +45,14 @@ AnimatedGradientBackground(
 
 ## Parameters
 
-- `child`: The widget to display on top of the gradient background.
-- `colors`: The list of colors to use in the gradient.
-- `stops`: The list of stops for the gradient.
-- `begin`: The beginning alignment of the gradient.
-- `end`: The ending alignment of the gradient.
-- `duration`: The duration of the gradient animation.
+| Parameter | Type                | Description                                      |
+|-----------|---------------------|--------------------------------------------------|
+| `child`   | `Widget`            | The widget to display on top of the gradient background. |
+| `colors`  | `List<Color>`       | The list of colors to use in the gradient.       |
+| `stops`   | `List<double>?`     | The list of stops for the gradient.              |
+| `begin`   | `Alignment`         | The beginning alignment of the gradient.         |
+| `end`     | `Alignment`         | The ending alignment of the gradient.            |
+| `duration`| `Duration`          | The duration of the gradient animation.          |
 
 ## Example
 
@@ -86,3 +87,7 @@ class MyApp extends StatelessWidget {
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Developed by [Huss Russ](https://github.com/hussruss). Connect with me on [LinkedIn](https://www.linkedin.com/in/hussrusse/).
