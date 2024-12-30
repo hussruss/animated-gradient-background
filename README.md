@@ -8,8 +8,12 @@ This package allows you to create animated gradient backgrounds with customizabl
 
 ## Demo
 
- ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)
-  ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif)  ![](https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif) 
+<div style="display: flex; align-items: center; flex-wrap: wrap;
+  gap: 12px;">
+  <img src="https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg1.gif?raw=true" width="200" />
+  <img src="https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg2.gif?raw=true" width="200" />
+  <img src="https://github.com/hussruss/hussruss_public/blob/main/animated-gradient-bg3.gif?raw=true" width="200" />
+</div>
 
 ## Features
 
